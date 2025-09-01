@@ -8,7 +8,8 @@ The project contains the files in final year project.
 Github, VS code&HTML
 
 # Installation and setup guide
-**Installation**/
+**Installation**
+/
 Installed Github and VS code
 
 *setup guide*/
