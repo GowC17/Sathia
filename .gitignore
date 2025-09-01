@@ -1,1 +1,10 @@
 /text.txt
+/test/text.txt
+text.txt
+test/
+test
+img*
+*.log
+*.md
+!README.md
+
