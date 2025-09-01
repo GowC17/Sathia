@@ -8,11 +8,10 @@ The project contains the files in final year project.
 Github, VS code&HTML
 
 # Installation and setup guide
-**Installation**
-/
+**Installation**\
 Installed Github and VS code
 
-*setup guide*/
+*setup guide*\
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2d2cf35a-79e7-4f26-ba34-e94e6258c91c" />
 
