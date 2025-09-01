@@ -1,3 +1,4 @@
 Name: Sathia bama
 Qualification: M.Sc Cs
 City: Theni
+college: Nadar saraswathi college of Arts and Science
