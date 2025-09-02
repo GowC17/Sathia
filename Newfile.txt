@@ -1,4 +1,6 @@
 Name: Sathia bama
-Qualification: M.Sc Cs
-City: chennai
+Qualification: phd
+City: coimbatore
 college: Nadar saraswathi college of Arts and Science
+
+
